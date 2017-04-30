@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-Farmville-20170429114302.mdf;Initial Catalog=aspnet-Farmville-20170429114302;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\blake\\documents\\visual\ studio\ 2017\\Projects\\Farmville\\Farmville\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>
